@@ -15,7 +15,7 @@ The Personality Prediction System is an AI-powered application designed to analy
 ## Technologies Used
 
 - **Programming Languages**: Python (for backend), HTML, CSS, JavaScript (for web interface)
-- **Libraries/Frameworks**: Flask (web development), Pandas (data handling), NLTK (NLP), Google GenerativeAI (AI interaction)
+- **Libraries/Frameworks**: Flask (web development), Pandas (data handling), NLTK (NLP)
 - **Tools**: PyPDF2, textract, docx (for text extraction from resumes)
 
 ## Implementation Details
